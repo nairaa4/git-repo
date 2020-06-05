@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title>Latihan Git Repository</title>
+    <title>Latihan Git Repo</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
         <script
             src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
@@ -48,6 +48,6 @@
 
             
         </form>
-       
+       <p>pat</p>
     </body>
 </html>
