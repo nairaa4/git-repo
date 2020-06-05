@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title>Latihan Git Repo</title>
+    <title>Latihan Git Repository</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
         <script
             src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
