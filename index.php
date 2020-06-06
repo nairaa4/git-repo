@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
+    
     <head>
-    <title>Latihan Git Repo</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <title>Latihan Git Repository</title>
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
         <script
             src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
             integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
@@ -10,16 +11,16 @@
         </script>
         <script src="js/bootstrap.min.js"></script>
         <style>
-        form{
-            margin-left:35%
-        }
+            form{
+                margin-left:35%
+            }
         </style>
     </head>
+    
     <body> 
     
         <form method="post" action="cek_login.php">
             
-
             <div class="container">
             <div class="col-md-5 col-md-offset-4" style="margin-top:25%">
                 <h3 align="center">Login</h3>
@@ -46,7 +47,6 @@
             </div>
             </div>
 
-            
         </form>
        <p>pat</p>
     </body>
